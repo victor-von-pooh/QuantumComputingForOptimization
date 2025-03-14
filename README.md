@@ -1,2 +1,2 @@
-# QuantumComputingForOptimization
+# Qiskitを使った量子最適化アルゴリズムの応用へ
 「Qiskitを使った量子最適化アルゴリズムの応用へ」記事対応のリポジトリ.
